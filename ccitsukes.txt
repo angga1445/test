@@ -5,4 +5,5 @@ bikin repositori(git init)
 ganti change direktori(cd)
 stagging(add)
 commit(-m)
-log(git log)
+log(git log) cci
+asdasd
